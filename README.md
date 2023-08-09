@@ -1,4 +1,4 @@
-# Project Name  Bike Sharing Assignment
+# Project Name  : Bike Sharing Assignment
 > Outline a brief description of your project.
  In bike sharing system, bikes are given to the users for rent or free on short time basis. 
  A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic
@@ -19,15 +19,6 @@
 - Two years of rented bikes data given in day.csv
 
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-
-
-
 ## Technologies Used
 - library - numpy
 - library - pandas
@@ -35,6 +26,14 @@
 - library - matplotlib
 - library - seaborn
 
+## Conclusions
+- Conclusion 1 : The model 4 build for bike sharing problem is very well 'Generalize' various datasets. 
+- Conclusion 2 : temp (Temperature) - A coefficient value of ‘0.5709’ indicates that a unit increase in temp, increases the bike renting by 0.5709 units
+- Conclusion 3 : weathersit_3 (Weather Situation 3) - A coefficient value of ‘-0.2439’ indicated that, a unit increase in Weathersit3, decreases the bike renting by 0.2439 units.
+- Conclusion 4 : yr (Year) - A coefficient value of ‘0.2294’ indicated that a unit increase in yr increases the bike reting by 0.2294 units.
+- Conclusion 5 : windspeed : A coefficient value of ‘-0.1861’ indicated that a unit increase in windspeed variable decreases the bike hire numbers by 0.1861 units.
+- Conclusion 6 : hum(Humidity) : A coefficient value of ‘-0.1613’ indicated that a unit increase in hum variable decreases the bike renting by 0.1613 units. 
+- Conclusion 7 : season_4 : A coefficient value of ‘0.1407’ indicated that a unit increase in season_4 variable increases the bike rent biking by 0.1407 units
 
 
 
